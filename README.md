@@ -2,6 +2,9 @@
 
 Stand-alone library of Symfony EventDispatcher that can be used in any PHP framework or just pure PHP probject.
 
+If you're looking simple one please visit:
+https://github.com/shinbonlin/PHP-EventDispatcher
+
 What's the different than original?
 
 Nothing is changed except:
