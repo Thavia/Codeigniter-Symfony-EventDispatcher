@@ -1,4 +1,4 @@
-# Codeigniter-Symfony-EventDispatcher
+# Symfony EventDispatcher for Codeigniter
 
 Stand-alone library of Symfony EventDispatcher that can be used in any PHP framework or just pure PHP probject.
 
